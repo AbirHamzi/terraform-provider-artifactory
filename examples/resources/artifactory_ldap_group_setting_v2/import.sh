@@ -1,1 +1,0 @@
-terraform import artifactory_ldap_group_setting_v2.ldap ldapGroup1

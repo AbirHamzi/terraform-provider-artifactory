@@ -1,1 +1,0 @@
-terraform import artifactory_user.test-user myusername

@@ -1,1 +1,0 @@
-terraform import artifactory_anonymous_user.anonymous-user anonymous
